@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ratbag98
-- 👀 I’m interested in Unity, Crypto, Elixir, Obsidian/PKM/Second Brain
+- 👀 I’m interested in Neovim, Crypto, Elixir, Obsidian/PKM/Second Brain
 - 🌱 I’m currently learning Python (stopped learning C# when I saw what MS were doing to the ecosystem
 - 💞️ I’m looking to collaborate on nothing at the moment, don't take it personally.
 - 📫 How to reach me - you don't need to know right now.
